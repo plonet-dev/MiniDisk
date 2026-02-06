@@ -20,12 +20,3 @@ It allows configuring the update interval, autostart, and indicator colors.
 - Global Exit closes all icons
 - Lightweight and dependency-free except required packages
 
----
-
-##  Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/USERNAME/MiniDisk.git
-cd MiniDisk
