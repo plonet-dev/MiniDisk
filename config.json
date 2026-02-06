@@ -1,0 +1,24 @@
+{
+  "update_interval": 10,
+  "autostart": false,
+  "colors": {
+    "normal": [
+      78,
+      243,
+      90,
+      200
+    ],
+    "warning": [
+      230,
+      180,
+      40,
+      200
+    ],
+    "critical": [
+      200,
+      50,
+      50,
+      200
+    ]
+  }
+}
