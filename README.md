@@ -1,12 +1,23 @@
-MiniDisk — Open-Source License
-Author: plonet67
-Program: MiniDisk
-Date: 2025
-Freedom to Use
-You may use MiniDisk for any personal or commercial purpose.
-Freedom to Study and Modify
-The source code is available, and you are free to study, modify, and improve it.
-Freedom to Distribute
-You may distribute the original or modified version of the program, provided that this license and author attribution are preserved.
-No Warranty
-The program is provided "as is". The author is not responsible for any damages or issues caused by using the program.
+# MiniDisk
+
+**MiniDisk** is a lightweight Windows utility that displays disk usage in the system tray with a color indicator.  
+It allows configuring the update interval, autostart, and indicator colors.
+
+---
+
+##  Features
+
+- Shows all fixed disks in the system tray
+- Color-coded usage indicator:
+  - **Normal (green)** — enough free space
+  - **Warning (yellow)** — low free space
+  - **Critical (red)** — critically low free space
+- Settings via a graphical window:
+  - Update interval
+  - Windows autostart
+  - Custom indicator colors
+- Tray menu: `Settings` / `Exit`
+- Global Exit closes all icons
+- Lightweight and dependency-free except required packages
+
+---
